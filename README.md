@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with other **organizations envolving AI, like one that I'm already envolve called MAIA**
 
-- 👨‍💻 All of my projects are available at [My projects are getting public acording to the quality and completeness of the code, so stay tune to see this projects](My projects are getting public acording to the quality and completeness of the code, so stay tune to see this projects)
+- 👨‍💻 All of my projects are available to the public (My projects are getting public acording to the quality and completeness of the code, so stay tune to see this projects)
 
 - 💬 Ask me about **AI, Math and algorithm problem solving (Python, C or C+)+**
 
