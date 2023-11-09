@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available to the public (My projects are getting public acording to the quality and completeness of the code, so stay tune to see this projects)
 
-- 💬 Ask me about **AI, Math and algorithm problem solving (Python, C or C+)+**
+- 💬 Ask me about **AI, Math and algorithm problem solving (Python, C or C++)**
 
 - 📫 How to reach me **lteloladeira@gamil.com**
 
