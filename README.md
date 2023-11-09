@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **lteloladeira@gamil.com**
 
-- 📄 Know about my experiences [This is my CV, take a look:](This is my CV, take a look:)
-
 - ⚡ Fun fact **I enter in the world of computers and start to study Computational Engineering to create my own games, but now I open totally my mind to other worlds of programming (I still love videogames)**
 
 <h3 align="left">Connect with me:</h3>
