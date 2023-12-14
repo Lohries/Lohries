@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lohries Luis Henrique Telo Ladeira Mota</h1>
+<h1 align="center">Hi 👋, I'm Luis Henrique Telo Ladeira Mota</h1>
 <h3 align="center">I love all kinds of technologies and areas of computation, but I'm dedicating myself in the Artificial Intelligence and Mathematical computation in nowadays</h3>
 
 - 🔭 I’m currently working on AI project for the university **UPX2**
