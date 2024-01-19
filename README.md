@@ -1,24 +1,21 @@
+<h1 align="center">Oi 👋, eu sou Luis Henrique Telo Ladeira Mota</h1>
+<h3 align="center">Amo todas as formas de tecnologia e áreas da computação, mas atualmente estou me dedicando à Inteligência Artificial e Computação Matemática.</h3>
 
-<h1 align="center">Hi 👋, I'm Luis Henrique Telo Ladeira Mota</h1>
-<h3 align="center">I love all kinds of technologies and areas of computation, but I'm dedicating myself to Artificial Intelligence and Mathematical computation nowadays.</h3>
-🔭 I’m currently working on an AI project for the university UPX2
+- 🔭 Atualmente estou trabalhando em um projeto de IA para a universidade **UPX2**
 
-🌱 I’m currently learning about Convolutional Neural Networks to classify images (Tensorflow and Pytorch)
+- 🌱 Atualmente estou aprendendo sobre **Assembly e APIs graficas**
 
-🤝 I’m looking for help with other organizations involving AI, like one that I'm already involved in called MAIA
+- 👨‍💻 Todos os meus projetos estão disponíveis para o público (Meus projetos estão sendo tornados públicos de acordo com a qualidade e completude do código, então fique atento para ver esses projetos)
 
-👨‍💻 All of my projects are available to the public (My projects are getting public according to the quality and completeness of the code, so stay tuned to see these projects)
+- 💬 Pergunte-me sobre **IA, Matemática e resolução de problemas de algoritmos (Python, C ou C++)**
 
-💬 Ask me about AI, Math, and algorithm problem-solving (Python, C, or C++)
+- 📫 Como me encontrar: **lteloladeira@gmail.com**
 
-📫 How to reach me: lteloladeira@gmail.com
+- ⚡ Curiosidade: **Eu entrei no mundo da Engenharia da Computação para criar meus próprios jogos, mas agora abri totalmente minha mente para outros mundos da programação (ainda amo videogames)**
 
-⚡ Fun fact: I entered the world of computers and started to study Computational Engineering to create my own games, but now I've opened my mind to other realms of programming (I still love video games)
+<h3 align="left">Conecte-se comigo:</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
@@ -78,6 +75,7 @@
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
   </a>
 </p>
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lohries&show_icons=true&title_color=ffffff&text_color=dddddd&icon_color=666666&border_color=555555&bg_color=111111&locale=pt-BR&border_radius=10&include_all_commits=true&count_private=true&show_owner=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohries&title_color=ffffff&text_color=dddddd&border_color=555555&bg_color=111111&locale=pt-BR&border_radius=10&size_weight=0.5&count_weight=0.5&layout=compact"/>
