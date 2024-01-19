@@ -26,5 +26,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohries&title_color=ffffff&text_color=dddddd&border_color=555555&bg_color=111111&locale=pt-BR&border_radius=10&size_weight=0.5&count_weight=0.5&layout=compact"/>
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lohries&show_icons=true&locale=en&layout=compact" alt="lohries" /></p>
+
 
